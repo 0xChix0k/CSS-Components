@@ -35,7 +35,7 @@ function togglePassInput(e) {
   const type = passInput.getAttribute('type');
   if (type === 'password') {
     passInput.setAttribute('type', 'text');
-    toggleIcon.innerHTML = '💀';
+    toggleIcon.innerHTML = '👽';
     ripple.style.cssText = `
     border-radius: 4px;
     width: 100%;
@@ -47,7 +47,7 @@ function togglePassInput(e) {
     toggleIcon.style.fontSize = '27px';
   } else {
     passInput.setAttribute('type', 'password');
-    toggleIcon.innerHTML = '☠';
+    toggleIcon.innerHTML = '🤖';
     toggleIcon.style.fontSize = '25px';
     ripple.style.cssText = `
     border-radius: 50%;

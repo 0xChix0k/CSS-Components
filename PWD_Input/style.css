@@ -36,7 +36,7 @@ body{
 }
 .input-group input:focus{
   border: 1px solid #55b7dd;
-  box-shadow: 0px 0px 2px 2px #55b7dd34;
+  box-shadow: 0px 0px 15px 2px #55b7dd34;
 }
 .input-group .toggle{
   background: #fff;
