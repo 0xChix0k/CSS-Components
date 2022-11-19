@@ -1,7 +1,7 @@
-<div style='margin: auto;width:100px'>
-  <a href="https://linktr.ee/evileye0666" target="_blank"><img src="../../Images/Neal.png" alt=""></a>
+<div align="center">
+  <a href="https://linktr.ee/evileye0666" target="_blank"><img src="../../Images/Neal.png" width="100px" alt=""></a>
 </div>
-<div style='margin: auto;display:flex;justify-content:center'>
+<div align="center">
   <img src="./Images/PWD_input.gif" style="" alt="">
 </div>
 <br/><br/>

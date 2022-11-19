@@ -1,7 +1,7 @@
-<div style='margin: auto;display:flex;justify-content:center'>
+<div align="center">
   <a href="https://linktr.ee/evileye0666" target="_blank"><img src="../../Images/Neal.png" width="100px" alt=""></a>
 </div>
-<div style='margin: auto'>
+<div align="center">
   <img src="./Images/3D_Flip_Card.gif" alt="">
 </div>
 <br/><br/>
