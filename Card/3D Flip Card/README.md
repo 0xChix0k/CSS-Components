@@ -2,7 +2,7 @@
   <a href="https://linktr.ee/evileye0666" target="_blank"><img src="../../Images/Neal.png" width="100px" alt=""></a>
 </div>
 <div align="center">
-  <img src="./Images/3D_Flip_Card.gif" alt="">
+  <img src="./Images/3D_Flip_Card.gif" width="85%" alt="">
 </div>
 <br/><br/>
 <h1>3D Flip Card </h1>
