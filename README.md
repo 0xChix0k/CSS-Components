@@ -8,7 +8,7 @@
 <br/>
 <h1>Category:</h1>
 <ul>
-  <li><h3><a href="https://github.com/Evileye0666/Smart-contract/tree/main/NFT_Contract" target='_blank'>Card</a></h3></li>
-  <li><h3><a href="https://github.com/Evileye0666/Smart-contract/tree/main/NFT_Contract" target='_blank'>Form</a></h3></li>  
+  <li><h3><a href="https://github.com/Evileye0666/CSS-Components/tree/main/Card" target='_blank'>Card</a></h3></li>
+  <li><h3><a href="https://github.com/Evileye0666/CSS-Components/tree/main/Form" target='_blank'>Form</a></h3></li>  
 </ul>
 <br/><br/>

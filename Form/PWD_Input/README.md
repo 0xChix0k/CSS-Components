@@ -1,4 +1,4 @@
-<div style='margin: auto;width:30%'>
+<div style='margin: auto;width:100px'>
   <a href="https://linktr.ee/evileye0666" target="_blank"><img src="../../Images/Neal.png" alt=""></a>
 </div>
 <div style='margin: auto;display:flex;justify-content:center'>

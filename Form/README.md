@@ -8,6 +8,6 @@
 <br/>
 <h1>Category:</h1>
 <ul>
-  <li><h3><a href="https://github.com/Evileye0666/Smart-contract/tree/main/NFT_Contract" target='_blank'>Password Input Style</a></h3></li>
+  <li><h3><a href="https://github.com/Evileye0666/CSS-Components/tree/main/Form/PWD_Input" target='_blank'>Password Input Style</a></h3></li>
 </ul>
 <br/><br/>
