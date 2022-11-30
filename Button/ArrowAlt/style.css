@@ -1,0 +1,49 @@
+.pulsingBtn {
+  margin: auto;
+  margin-top: 10%;
+  align-items: center;
+  position: relative;
+  width: 150px;
+  height: 150px;
+  background-color: #bfec55;
+  color: #ffffff;
+  cursor: pointer;
+  border-radius: 50em;
+}
+
+.pulsingBtn::after {
+  content: '';
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background-color: #bfec55;
+  border-radius: 50em;
+  animation: ripple 1.6s ease-out infinite;
+}
+
+@keyframes ripple {
+  0%,
+  35% {
+    transform: scale(0);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.5);
+    opacity: 0.8;
+  }
+  100% {
+    opacity: 0;
+    transform: scale(2);
+  }
+}
+
+.pulsingBtn>i {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 5;
+  font-size: 1.7em;
+  line-height: 50px;
+  margin-top: 1px;
+}
