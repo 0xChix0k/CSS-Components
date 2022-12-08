@@ -1,13 +1,14 @@
-<div style='margin: auto'>
-  <a href="https://linktr.ee/evileye0666" target="_blank"><img src="../Images/betterCallNeal.jpg" alt=""></a>
-</div>
-<br/><br/>
-<h1>Form Components</h1>
-<h4>The styles for Form components</h4>
-<h4>Welcome copy thier to deploy your project.</h4>
-<br/>
-<h1>Category:</h1>
+[![github_profile_banner](https://user-images.githubusercontent.com/6915577/206462453-5474db56-58cf-4088-8b86-cbab994d2a0c.jpg)](https://linktr.ee/evileye0666)
+
+# 🌈Form Components
+
+The styles for Form components\
+Welcome clone it to deploy your project.
+
+# 🧩Components
+
 <ul>
-  <li><h3><a href="https://github.com/Evileye0666/CSS-Components/tree/main/Form/PWD_Input" target='_blank'>Password Input Style</a></h3></li>
+  <li>
+    <a href="https://github.com/Evileye0666/CSS-Components/tree/main/Form/PWD_Input"><img src="./PWD_Input/Images/PWD_input.gif" width="40%"></img></a>
+  </li>
 </ul>
-<br/><br/>
